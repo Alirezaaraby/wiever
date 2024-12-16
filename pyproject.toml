@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "wiever"
-version = "0.1.0"
+version = "0.1.1"
 description = "Wiever is a powerful and flexible CLI tool designed to provide detailed and customizable views of your directory structure. Whether you're looking to visualize your filesystem as a tree, generate detailed file listings, or explore other innovative views of your directories, Wiever has you covered."
 license = "MIT"
 authors = ["Alireza Arabi <me@alirezaarabi.com>"]
